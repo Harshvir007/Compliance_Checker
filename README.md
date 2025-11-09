@@ -34,8 +34,8 @@ Installation
 
 Clone the repository and install the required dependencies.
 
-git clone https://github.com/yourusername/mini-cloud-compliance-checker.git
-cd mini-cloud-compliance-checker
+git clone https://github.com/Harshvir007/Compliance_Checker.git
+cd Compliance-Checker
 pip install -r requirements.txt
 
 
